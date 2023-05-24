@@ -15,7 +15,7 @@ on:
       logLevel:
         description: 'Log level'     
         required: true
-        default: 'warning'
+        default: 'warning1'
       tags:
         description: 'Test scenario tags'
   
